@@ -1,0 +1,10 @@
+/* Chart Styles */
+#interactiveChart {
+  height: 80vmin;
+}
+
+
+/* Adjustment Styles */
+svg text {
+  font: 400 10pt "Helvetica Neue", sans-serif !important;
+}
